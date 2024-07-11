@@ -4,3 +4,17 @@ I'm Tanya, a B.Tech 4th-year student passionate about machine learning, artifici
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanya-singh-905811248/) [Email](tanyamarch2003@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a bibliophile who loves diving into books on a wide range of topics!
+
+## Tech Stack
+- C
+- C++
+- Java
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+- Deep Learning
+- MySql
+
