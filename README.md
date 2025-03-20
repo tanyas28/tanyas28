@@ -29,8 +29,8 @@ I'm a **B.Tech 4th-year student** passionate about **Machine Learning, Artificia
 ---
 
 ### 📫 How to Reach Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 [Email](mailto:your-email@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanya-singh-905811248/)  
+📧 [Email](tanyamarch2003@gmail.com)  
 
 😄 **Pronouns:** She/Her  
 ⚡ **Fun Fact:** I love reading books 📖, and I can spend hours lost in a good one!  
