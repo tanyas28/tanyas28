@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tanya!</h1>
 
 🌟 **About Me**  
-I'm a **B.Tech 4th-year student** passionate about **Machine Learning, Artificial Intelligence, and Software Development**.    
+Programmer Analyst at **Cognizant**, passionate about **Machine Learning, Artificial Intelligence, and Software Development**.    
 
 📚 Apart from coding, I'm a **bibliophile** who loves exploring books across various topics!  
 
